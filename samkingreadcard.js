@@ -1,5 +1,3 @@
 function myFunction() {
-alert("غير متاح حاليا"); 
+    document.getElementById("demo").innerHTML="Paragraph changed.";
 }
-
-
