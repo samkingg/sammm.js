@@ -1,2 +1,5 @@
- alert("غير متاح حاليا"); 
+function myFunction() {
+alert("غير متاح حاليا"); 
+}
+
 
