@@ -1,3 +1,2 @@
-function mysamking() {
-   alert("غير متاح حاليا"); 
-}
+ alert("غير متاح حاليا"); 
+
