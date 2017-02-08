@@ -1,3 +1,3 @@
-function msysss() {
+function myFuncti() {
      alert("غير متاح حاليا"); 
 }
